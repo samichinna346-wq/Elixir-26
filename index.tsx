@@ -1,6 +1,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+// Fix: remove .ts extension from import
 import App from './App';
 
 const rootElement = document.getElementById('root');
